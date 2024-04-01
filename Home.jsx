@@ -14,10 +14,6 @@ const Home = () => {
             <br />
             <ul>
                 <li>
-                    {/* Endpoint to route to Home component */}
-                    <Link to="/Home">Home</Link>
-                </li>
-                <li>
                     {/* Endpoint to route to About component */}
                     <Link to="/Lunch">Lunch</Link>
                 </li>
