@@ -20,6 +20,7 @@ Iteration 2: We added a functioning grades and library tab. These allow for more
      - Creating pop up buttons that can be closed (closed)
      - Making sure the text does not overwrite onto eachother (closed)
      - Making each button operate on its own    (closed)
+     
   -USE CASE 2:
    - Planned test case of going to the library tab and paying off all of the mone and trying to pay more. As well as seeing the books that are outstanding.
      - Creating a useState that is able to maintain information throughout on button clicks  (closed)
