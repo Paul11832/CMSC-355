@@ -26,8 +26,14 @@ Iteration 2: We added a functioning grades and library tab. These allow for more
      - Creating a useState that is able to maintain information throughout on button clicks  (closed)
      - Being able to read in a number from the text box and update it according to the site  (closed)
      - Making sure the user is not able to go below 0  (closed)
+
+  Iteration 3: Added a functioning calendar that allows the user to see and upcoming events and click around to view the days.
+    - USE CASE 1:
+      - Planned a test case of clicking on the month and a day and making sure the popup is there and then it goes away
+       - Creating a interactive map that can move months and years (closed)
+       - Allowing it to click on day and open (closed)
+       - Allowing it to click on a month and open notes (closed)
   - FUTURE TODO
-  - Still need an email function
-  - Still need the ability to send an email from the home page
   - Need to make more visually appealing
   - Need to organize the local storage
+    
