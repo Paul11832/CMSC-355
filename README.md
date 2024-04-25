@@ -28,7 +28,9 @@ Iteration 2: We added a functioning grades and library tab. These allow for more
      - Making sure the user is not able to go below 0  (closed)
 
   Iteration 3: Added a functioning calendar that allows the user to see and upcoming events and click around to view the days.
+  
     - USE CASE 1:
+    
       - Planned a test case of clicking on the month and a day and making sure the popup is there and then it goes away
        - Creating a interactive map that can move months and years (closed)
        - Allowing it to click on day and open (closed)
